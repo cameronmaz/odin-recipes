@@ -1,0 +1,29 @@
+body {
+    background-color:#DCD2CC;
+
+}
+
+.heading-center {
+    text-align: center;
+
+}
+
+.div-center {
+    text-align: center;
+}
+
+.ul-nav {  
+    list-style-type: none;
+}
+
+.li-link {
+    text-decoration: none; display: block;
+}
+
+.recipe-img {
+    height: 300px; 
+    width: 300px;
+    border-style: solid; 
+    border-color: black; 
+    border-width: 2px;
+}
